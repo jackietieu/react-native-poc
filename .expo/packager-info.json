@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 12294,
+  "expoServerNgrokUrl": "https://fe-pye.anonymous.poc.exp.direct",
+  "packagerNgrokUrl": "https://packager.fe-pye.anonymous.poc.exp.direct",
+  "ngrokPid": 12312,
+  "webpackServerPort": null
+}
